@@ -30,19 +30,8 @@
 
 
 
-
-
 ## 🌐 Connect with me
-<p>
-## 🌐 Connect with me
-<p>
-  <a href="https://x.com/olh_cs60227" target="_blank">Twitter (X)</a> |
-  <a href="https://www.linkedin.com/in/mustafa-abdrabalameer-b67851323/" target="_blank">LinkedIn</a>
-</p>
-## 🌐 Connect with me
-<p>
-  <a href="https://x.com/olh_cs60227" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
+<p align="center">
+  <a href="https://x.com/olh_cs60227">Twitter (X)</a> |
+  <a href="https://www.linkedin.com/in/mustafa-abdrabalameer-b67851323/">LinkedIn</a>
 </p>
