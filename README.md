@@ -35,5 +35,10 @@
 ## 🌐 Connect with me
 <p>
   <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> |
-  <a href="https://twitter.com/YOUR_LINK">Twitter</a>
+## 🌐 Connect with me
+<p>
+  <a href="https://x.com/olh_cs60227" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
 </p>
