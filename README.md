@@ -7,7 +7,7 @@
 - 🎓 I'm a Computer Science student
 - 💡 Interested in data analysis, and Web Development
 - 📊 Currently working on data analysis and ML projects
-- 📫 How to reach me: your-email@example.com
+- 📫 How to reach me: olhamear@hotmail.com
 
 ---
 
